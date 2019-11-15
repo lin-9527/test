@@ -1,4 +1,4 @@
-package com.briup.apps.cms.bean;
+package com.briup.apps.cms.beans;
 
 public class Article {
     /**
